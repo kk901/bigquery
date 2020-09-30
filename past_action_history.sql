@@ -1,6 +1,7 @@
 
 .past_n_days_action_history as (
 /*ある日を起点に過去N日の行動履歴を集約する際に活用*/
+  /*ここでは90日*/
   SELECT DISTINCT
   dt,user_id,action_dt,action_id
   FROM
