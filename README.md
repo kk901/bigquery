@@ -1,3 +1,3 @@
 # QUERY
 QUERY sample
-有用なクエリのtips置き場
+有用なクエリのtips置き場(bigquery)
